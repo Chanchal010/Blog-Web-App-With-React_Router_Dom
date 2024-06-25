@@ -1,24 +1,7 @@
-# Blog-Web-App-With-React-Router-Dom
 
-
-Here's a detailed README.md file for the GitHub repository [Blog-Web-App-With-React_Router_Dom](https://github.com/Chanchal010/Blog-Web-App-With-React_Router_Dom).
-
-```markdown
 # Blog Web App with React Router Dom
 
-This project is a blog web application built using React, Vite, and React Router Dom. The application allows users to read, create, and manage blog posts with a modern, responsive design.
-
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+This project is a blog web application built using React, Vite, and React Router Dom. The application modern, responsive design.
 
 ## Features
 
@@ -38,20 +21,20 @@ This project is a blog web application built using React, Vite, and React Router
 ### Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/Chanchal010/Blog-Web-App-With-React_Router_Dom.git
    cd Blog-Web-App-With-React_Router_Dom
    ```
 
 2. Install dependencies:
-   ```bash
+   ```
    npm install
    # or
    yarn install
    ```
 
 3. Start the development server:
-   ```bash
+   ```
    npm run dev
    # or
    yarn dev
@@ -131,3 +114,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+---
