@@ -40,7 +40,7 @@ This project is a blog web application built using React, Vite, and React Router
    yarn dev
    ```
 
-4. Open your browser and visit `[https://blog-web-app-with-react-rout-git-df2cbc-chanchal-bag-s-projects.vercel.app/](https://blog-web-app-with-react-rout-git-df2cbc-chanchal-bag-s-projects.vercel.app/)` to see the application running.
+4. Open your browser and visit [https://blog-web-app-with-react-rout-git-df2cbc-chanchal-bag-s-projects.vercel.app/](https://blog-web-app-with-react-rout-git-df2cbc-chanchal-bag-s-projects.vercel.app/) to see the application running.
 
 ## Usage
 
